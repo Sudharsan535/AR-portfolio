@@ -36,6 +36,4 @@ Created as a **self-portfolio project**, this app demonstrates the potential of 
 
 **✅ Completed (Personal Version)** – Core functionality implemented and tested for individual use. Commercial scalability is part of future roadmap.
 
----
 
-Would you like me to generate a matching `README.md` or sample Firebase structure for this repo?
